@@ -1,7 +1,7 @@
 """ General
 syntax enable
 set autoindent
-set number
+set number relativenumber
 set cursorline
 
 """ Config mgmt
